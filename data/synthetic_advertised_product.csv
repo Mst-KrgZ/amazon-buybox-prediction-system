@@ -1,0 +1,401 @@
+End_Date,Portfolio_name,Campaign_Name,Ad_Group_Name,Advertised_SKU,Advertised_ASIN,Impressions,Clicks,Click_Thru_Rate_CTR,Cost_Per_Click_CPC,Spend,7_Day_Total_Sales,Total_Advertising_Cost_of_Sales_ACOS,Total_Return_on_Advertising_Spend_ROAS,7_Day_Total_Orders,7_Day_Total_Units,7_Day_Conversion_Rate,7_Day_Advertised_SKU_Units,7_Day_Other_SKU_Units,7_Day_Advertised_SKU_Sales,7_Day_Other_SKU_Sales
+2023-09-18,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,195,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,175,2,0.0114,0.67,1.34,1.9,0.7053,1.4179,0,0,0.0,0,0,1.9,0
+2023-12-04,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,2640,34,0.0129,1.3,44.15,67.6,0.6531,1.5311,2,2,0.0588,2,0,67.6,0
+2023-01-23,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,1205,10,0.0083,0.54,5.38,8.39,0.6412,1.5595,0,0,0.0,0,0,8.39,0
+2023-07-31,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,592,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-01,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,897,8,0.0089,0.52,4.15,11.56,0.359,2.7855,0,0,0.0,0,0,11.56,0
+2023-07-03,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,308,9,0.0292,1.43,12.89,16.81,0.7668,1.3041,0,0,0.0,0,0,16.81,0
+2023-09-04,Halley - ESF,Halley - Campaign 1,Halley - AdGroup 1,HAL-SYN-0000,B0SYNTH0000,88,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-09,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,552,10,0.0181,0.62,6.22,41.01,0.1517,6.5932,2,2,0.2,2,0,41.01,0
+2023-11-06,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,29,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-16,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,1246,2,0.0016,1.34,2.68,4.49,0.5969,1.6754,0,0,0.0,0,0,4.49,0
+2023-07-10,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,89,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-04,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,554,2,0.0036,1.49,2.97,29.37,0.1011,9.8889,1,1,0.5,1,0,29.37,0
+2023-10-23,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,254,2,0.0079,0.69,1.38,3.64,0.3791,2.6377,0,0,0.0,0,0,3.64,0
+2023-06-19,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,30,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-27,Harveast - ESF,Harveast - Campaign 1,Harveast - AdGroup 2,HAR-SYN-0001,B0SYNTH0001,2017,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-02,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,725,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,45,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-12,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,39,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-04,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,1663,1,0.0006,0.77,0.77,1.83,0.4208,2.3766,0,0,0.0,0,0,1.83,0
+2023-03-27,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,743,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,120,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-03,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,228,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-04,Bioblas - ESF,BioBlas - Campaign 1,BioBlas - AdGroup 3,BIO-SYN-0002,B0SYNTH0002,40,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-07,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,211,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-18,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,124,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-02,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,349,1,0.0029,1.38,1.38,11.86,0.1164,8.5942,0,0,0.0,0,0,11.86,0
+2023-01-30,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,66,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-12,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,1554,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-09,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,935,2,0.0021,1.22,2.43,6.92,0.3512,2.8477,0,0,0.0,0,0,6.92,0
+2023-11-27,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,30,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-18,Orient Therapy - ESF,OrientTherapy - Campaign 1,OrientTherapy - AdGroup 4,ORI-SYN-0003,B0SYNTH0003,925,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,154,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-15,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,785,1,0.0013,0.73,0.73,1.6,0.4562,2.1918,0,0,0.0,0,0,1.6,0
+2023-02-06,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,304,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-04,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,118,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-25,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,672,1,0.0015,1.2,1.2,2.72,0.4412,2.2667,0,0,0.0,0,0,2.72,0
+2023-09-11,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,117,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-12,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,422,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Jumbo Jumble - ESF,JumboJumble - Campaign 1,JumboJumble - AdGroup 5,JUM-SYN-0004,B0SYNTH0004,70,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,111,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-25,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,725,8,0.011,1.43,11.45,34.28,0.334,2.9939,1,1,0.125,1,0,34.28,0
+2023-11-13,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,70,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-18,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,299,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-26,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,432,2,0.0046,0.61,1.23,2.01,0.6119,1.6341,0,0,0.0,0,0,2.01,0
+2023-02-27,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,69,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,64,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-01,Halley - ESF,NaturPlus - Campaign 2,NaturPlus - AdGroup 1,NAT-SYN-0005,B0SYNTH0005,412,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,66,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,275,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,65,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,148,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,1257,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,70,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-11,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,185,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-06,Harveast - ESF,EcoHome - Campaign 2,EcoHome - AdGroup 2,ECO-SYN-0006,B0SYNTH0006,224,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-31,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,168,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,91,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,225,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-13,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,75,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-04,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,702,2,0.0028,0.59,1.18,6.04,0.1954,5.1186,0,0,0.0,0,0,6.04,0
+2023-10-02,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,108,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,523,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-01,Bioblas - ESF,VitaGreen - Campaign 2,VitaGreen - AdGroup 3,VIT-SYN-0007,B0SYNTH0007,371,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,710,1,0.0014,0.44,0.44,1.22,0.3607,2.7727,0,0,0.0,0,0,1.22,0
+2023-12-18,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,136,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-05,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,877,1,0.0011,1.27,1.27,1.61,0.7888,1.2677,0,0,0.0,0,0,1.61,0
+2023-09-04,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,53,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-16,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,1177,1,0.0008,1.2,1.2,9.19,0.1306,7.6583,0,0,0.0,0,0,9.19,0
+2023-11-06,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,201,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-25,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,282,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Orient Therapy - ESF,Halley - Campaign 2,Halley - AdGroup 4,HAL-SYN-0008,B0SYNTH0008,106,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-24,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,272,1,0.0037,1.45,1.45,5.19,0.2794,3.5793,0,0,0.0,0,0,5.19,0
+2023-01-30,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,69,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,264,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-18,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,91,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,168,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-30,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,585,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,375,1,0.0027,0.86,0.86,1.67,0.515,1.9419,0,0,0.0,0,0,1.67,0
+2023-11-13,Jumbo Jumble - ESF,Harveast - Campaign 2,Harveast - AdGroup 5,HAR-SYN-0009,B0SYNTH0009,588,1,0.0017,1.34,1.34,3.45,0.3884,2.5746,0,0,0.0,0,0,3.45,0
+2023-04-24,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,1506,2,0.0013,1.25,2.5,5.43,0.4604,2.172,0,0,0.0,0,0,5.43,0
+2023-05-01,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,363,3,0.0083,0.87,2.61,3.93,0.6641,1.5057,0,0,0.0,0,0,3.93,0
+2023-07-31,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,105,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-20,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,318,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-03,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,493,1,0.002,0.61,0.61,4.63,0.1317,7.5902,0,0,0.0,0,0,4.63,0
+2023-11-20,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,2364,5,0.0021,0.97,4.87,9.23,0.5276,1.8953,0,0,0.0,0,0,9.23,0
+2023-02-06,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,108,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-02,Halley - ESF,BioBlas - Campaign 3,BioBlas - AdGroup 1,BIO-SYN-0010,B0SYNTH0010,1462,17,0.0116,0.66,11.15,14.3,0.7797,1.2825,0,0,0.0,0,0,14.3,0
+2023-11-20,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,131,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-12,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,628,4,0.0064,1.33,5.34,6.8,0.7853,1.2734,0,0,0.0,0,0,6.8,0
+2023-07-17,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,792,1,0.0013,1.19,1.19,2.88,0.4132,2.4202,0,0,0.0,0,0,2.88,0
+2023-04-24,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,171,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-21,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,306,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-04-17,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,677,2,0.003,0.95,1.9,8.03,0.2366,4.2263,0,0,0.0,0,0,8.03,0
+2023-05-29,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,324,3,0.0093,0.51,1.54,2.33,0.6609,1.513,0,0,0.0,0,0,2.33,0
+2023-03-06,Harveast - ESF,OrientTherapy - Campaign 3,OrientTherapy - AdGroup 2,ORI-SYN-0011,B0SYNTH0011,315,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-15,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,499,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-26,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,252,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,257,1,0.0039,0.73,0.73,1.37,0.5328,1.8767,0,0,0.0,0,0,1.37,0
+2023-08-28,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,86,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,328,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-29,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,258,1,0.0039,1.29,1.29,2.5,0.516,1.938,0,0,0.0,0,0,2.5,0
+2023-11-20,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,1159,3,0.0026,0.7,2.1,3.3,0.6364,1.5714,0,0,0.0,0,0,3.3,0
+2023-11-27,Bioblas - ESF,JumboJumble - Campaign 3,JumboJumble - AdGroup 3,JUM-SYN-0012,B0SYNTH0012,219,1,0.0046,0.89,0.89,1.51,0.5894,1.6966,0,0,0.0,0,0,1.51,0
+2023-10-23,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,57,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-25,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,188,1,0.0053,0.41,0.41,0.52,0.7885,1.2683,0,0,0.0,0,0,0.52,0
+2023-02-13,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,76,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-04-10,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,437,2,0.0046,1.43,2.86,4.95,0.5778,1.7308,0,0,0.0,0,0,4.95,0
+2023-12-11,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,126,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,104,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-27,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,616,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-24,Orient Therapy - ESF,NaturPlus - Campaign 3,NaturPlus - AdGroup 4,NAT-SYN-0013,B0SYNTH0013,26,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-06,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,142,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,229,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-30,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,178,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,17,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,39,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-18,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,334,2,0.006,0.36,0.72,2.22,0.3243,3.0833,0,0,0.0,0,0,2.22,0
+2023-10-23,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,294,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Jumbo Jumble - ESF,EcoHome - Campaign 3,EcoHome - AdGroup 5,ECO-SYN-0014,B0SYNTH0014,3778,9,0.0024,1.39,12.49,36.42,0.3429,2.9159,1,1,0.1111,1,0,36.42,0
+2023-10-30,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,183,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-25,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,111,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-18,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,1383,9,0.0065,1.22,10.96,18.48,0.5931,1.6861,0,0,0.0,0,0,18.48,0
+2023-04-24,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,335,1,0.003,0.86,0.86,1.77,0.4859,2.0581,0,0,0.0,0,0,1.77,0
+2023-07-17,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,523,4,0.0076,1.15,4.6,8.97,0.5128,1.95,0,0,0.0,0,0,8.97,0
+2023-10-09,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,358,3,0.0084,0.33,1.0,3.83,0.2611,3.83,0,0,0.0,0,0,3.83,0
+2023-10-02,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,308,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-29,Halley - ESF,VitaGreen - Campaign 4,VitaGreen - AdGroup 1,VIT-SYN-0015,B0SYNTH0015,394,4,0.0102,0.77,3.08,4.0,0.77,1.2987,0,0,0.0,0,0,4.0,0
+2023-05-15,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,102,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,568,2,0.0035,1.43,2.85,3.99,0.7143,1.4,0,0,0.0,0,0,3.99,0
+2023-11-20,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,217,1,0.0046,0.91,0.91,1.54,0.5909,1.6923,0,0,0.0,0,0,1.54,0
+2023-01-02,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,244,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-04-03,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,24,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-06,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,39,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-18,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,8588,61,0.0071,0.7,42.95,80.92,0.5308,1.8841,1,1,0.0164,1,0,80.92,0
+2023-02-20,Harveast - ESF,Halley - Campaign 4,Halley - AdGroup 2,HAL-SYN-0016,B0SYNTH0016,261,1,0.0038,1.45,1.45,4.13,0.3511,2.8483,0,0,0.0,0,0,4.13,0
+2023-04-17,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,522,1,0.0019,0.77,0.77,6.25,0.1232,8.1169,0,0,0.0,0,0,6.25,0
+2023-06-12,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,430,8,0.0186,0.88,7.07,9.32,0.7586,1.3182,0,0,0.0,0,0,9.32,0
+2023-10-30,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,343,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-11,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,838,1,0.0012,1.43,1.43,1.94,0.7371,1.3566,0,0,0.0,0,0,1.94,0
+2023-05-29,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,260,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-06,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,1390,2,0.0014,0.82,1.65,5.81,0.284,3.5212,0,0,0.0,0,0,5.81,0
+2023-01-16,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,254,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-18,Bioblas - ESF,Harveast - Campaign 4,Harveast - AdGroup 3,HAR-SYN-0017,B0SYNTH0017,829,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,805,16,0.0199,1.0,15.96,20.61,0.7744,1.2914,1,1,0.0625,1,0,20.61,0
+2023-11-13,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,655,2,0.0031,0.57,1.14,11.18,0.102,9.807,0,0,0.0,0,0,11.18,0
+2023-04-03,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,684,1,0.0015,0.75,0.75,1.08,0.6944,1.44,0,0,0.0,0,0,1.08,0
+2023-10-23,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,9,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-27,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,148,1,0.0068,1.06,1.06,1.56,0.6795,1.4717,0,0,0.0,0,0,1.56,0
+2023-09-11,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,119,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-08,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,247,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-15,Orient Therapy - ESF,BioBlas - Campaign 4,BioBlas - AdGroup 4,BIO-SYN-0018,B0SYNTH0018,414,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-28,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,361,1,0.0028,1.44,1.44,2.43,0.5926,1.6875,0,0,0.0,0,0,2.43,0
+2023-04-24,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,202,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,123,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-18,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,154,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,70,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-09,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,1308,6,0.0046,0.81,4.84,8.44,0.5735,1.7438,0,0,0.0,0,0,8.44,0
+2023-12-11,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,384,2,0.0052,0.3,0.61,0.96,0.6354,1.5738,0,0,0.0,0,0,0.96,0
+2023-10-23,Jumbo Jumble - ESF,OrientTherapy - Campaign 4,OrientTherapy - AdGroup 5,ORI-SYN-0019,B0SYNTH0019,264,1,0.0038,1.4,1.4,3.06,0.4575,2.1857,0,0,0.0,0,0,3.06,0
+2023-03-06,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,387,2,0.0052,1.04,2.08,19.9,0.1045,9.5673,0,0,0.0,0,0,19.9,0
+2023-02-20,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,273,2,0.0073,0.7,1.4,1.79,0.7821,1.2786,0,0,0.0,0,0,1.79,0
+2023-02-06,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,683,2,0.0029,0.7,1.4,1.96,0.7143,1.4,0,0,0.0,0,0,1.96,0
+2023-06-19,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,70,1,0.0143,1.25,1.25,2.6,0.4808,2.08,0,0,0.0,0,0,2.6,0
+2023-06-26,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,1200,1,0.0008,0.98,0.98,4.26,0.23,4.3469,0,0,0.0,0,0,4.26,0
+2023-07-17,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,86,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-04-10,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,88,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Halley - ESF,JumboJumble - Campaign 5,JumboJumble - AdGroup 1,JUM-SYN-0020,B0SYNTH0020,252,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-03,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,280,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-23,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,173,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,555,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,191,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-06,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,320,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-06,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,347,2,0.0058,1.31,2.62,10.16,0.2579,3.8779,0,0,0.0,0,0,10.16,0
+2023-07-24,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,52,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-12,Harveast - ESF,NaturPlus - Campaign 5,NaturPlus - AdGroup 2,NAT-SYN-0021,B0SYNTH0021,347,1,0.0029,1.14,1.14,5.23,0.218,4.5877,0,0,0.0,0,0,5.23,0
+2023-09-25,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,83,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-20,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,25,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-23,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,967,4,0.0041,0.98,3.91,9.69,0.4035,2.4783,0,0,0.0,0,0,9.69,0
+2023-03-13,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,562,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-30,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,500,2,0.004,0.74,1.49,3.07,0.4853,2.0604,0,0,0.0,0,0,3.07,0
+2023-06-05,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,405,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-21,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,137,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-20,Bioblas - ESF,EcoHome - Campaign 5,EcoHome - AdGroup 3,ECO-SYN-0022,B0SYNTH0022,496,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-13,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,1122,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-19,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,491,1,0.002,1.22,1.22,2.07,0.5894,1.6967,0,0,0.0,0,0,2.07,0
+2023-09-04,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,141,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-21,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,170,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-16,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,34,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-13,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,140,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,1159,4,0.0035,0.7,2.79,3.89,0.7172,1.3943,0,0,0.0,0,0,3.89,0
+2023-05-29,Orient Therapy - ESF,VitaGreen - Campaign 5,VitaGreen - AdGroup 4,VIT-SYN-0023,B0SYNTH0023,714,1,0.0014,1.09,1.09,1.37,0.7956,1.2569,0,0,0.0,0,0,1.37,0
+2023-11-20,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,188,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-04,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,86,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-31,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,112,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-13,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,57,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,82,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,684,1,0.0015,1.48,1.48,2.65,0.5585,1.7905,0,0,0.0,0,0,2.65,0
+2023-03-20,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,452,3,0.0066,1.41,4.23,6.02,0.7027,1.4232,0,0,0.0,0,0,6.02,0
+2023-09-04,Jumbo Jumble - ESF,Halley - Campaign 5,Halley - AdGroup 5,HAL-SYN-0024,B0SYNTH0024,284,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-12,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,90,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-11,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,55,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-25,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,39,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-13,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,332,6,0.0181,1.43,8.55,14.56,0.5872,1.7029,0,0,0.0,0,0,14.56,0
+2023-03-27,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,326,1,0.0031,0.46,0.46,0.76,0.6053,1.6522,0,0,0.0,0,0,0.76,0
+2023-11-06,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,431,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,49,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-30,Halley - ESF,Harveast - Campaign 6,Harveast - AdGroup 1,HAR-SYN-0025,B0SYNTH0025,77,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,531,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-04,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,173,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,195,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,318,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,394,5,0.0127,0.83,4.14,9.82,0.4216,2.372,0,0,0.0,0,0,9.82,0
+2023-07-03,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,482,2,0.0041,1.0,2.0,3.79,0.5277,1.895,0,0,0.0,0,0,3.79,0
+2023-05-29,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,312,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Harveast - ESF,BioBlas - Campaign 6,BioBlas - AdGroup 2,BIO-SYN-0026,B0SYNTH0026,263,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,4693,62,0.0132,0.75,46.73,88.89,0.5257,1.9022,4,5,0.0645,5,0,88.89,0
+2023-07-03,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,178,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-30,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,596,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,18,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-27,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,142,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-30,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,135,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-31,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,661,2,0.003,0.77,1.53,7.16,0.2137,4.6797,0,0,0.0,0,0,7.16,0
+2023-05-15,Bioblas - ESF,OrientTherapy - Campaign 6,OrientTherapy - AdGroup 3,ORI-SYN-0027,B0SYNTH0027,303,1,0.0033,1.26,1.26,5.2,0.2423,4.127,0,0,0.0,0,0,5.2,0
+2023-08-07,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,369,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,45,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,599,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,30,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-12,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,411,1,0.0024,0.77,0.77,3.72,0.207,4.8312,0,0,0.0,0,0,3.72,0
+2023-06-26,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,204,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-04,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,2750,1,0.0004,0.37,0.37,0.73,0.5068,1.973,0,0,0.0,0,0,0.73,0
+2023-11-27,Orient Therapy - ESF,JumboJumble - Campaign 6,JumboJumble - AdGroup 4,JUM-SYN-0028,B0SYNTH0028,154,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-16,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,140,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-17,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,55,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,337,1,0.003,0.66,0.66,1.26,0.5238,1.9091,0,0,0.0,0,0,1.26,0
+2023-06-26,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,166,2,0.012,0.53,1.06,1.53,0.6928,1.4434,0,0,0.0,0,0,1.53,0
+2023-03-27,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,80,1,0.0125,0.82,0.82,1.2,0.6833,1.4634,0,0,0.0,0,0,1.2,0
+2023-10-30,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,64,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-15,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,445,1,0.0022,1.24,1.24,2.19,0.5662,1.7661,0,0,0.0,0,0,2.19,0
+2023-09-25,Jumbo Jumble - ESF,NaturPlus - Campaign 6,NaturPlus - AdGroup 5,NAT-SYN-0029,B0SYNTH0029,87,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-04,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,81,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-06,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,465,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,695,3,0.0043,1.18,3.55,4.64,0.7651,1.307,0,0,0.0,0,0,4.64,0
+2023-05-01,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,242,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-30,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,527,4,0.0076,1.05,4.19,10.87,0.3855,2.5943,0,0,0.0,0,0,10.87,0
+2023-03-06,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,88,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-13,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,2302,3,0.0013,1.15,3.46,6.17,0.5608,1.7832,0,0,0.0,0,0,6.17,0
+2023-11-27,Halley - ESF,EcoHome - Campaign 7,EcoHome - AdGroup 1,ECO-SYN-0030,B0SYNTH0030,171,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-04,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,57,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-29,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,447,5,0.0112,0.74,3.69,13.92,0.2651,3.7724,0,0,0.0,0,0,13.92,0
+2023-04-17,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,190,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,2867,3,0.001,0.34,1.03,1.77,0.5819,1.7184,0,0,0.0,0,0,1.77,0
+2023-11-20,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,423,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-08,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,296,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-24,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,174,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Harveast - ESF,VitaGreen - Campaign 7,VitaGreen - AdGroup 2,VIT-SYN-0031,B0SYNTH0031,785,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,124,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-20,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,20,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-19,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,53,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-06,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,1059,2,0.0019,1.23,2.45,3.35,0.7313,1.3673,0,0,0.0,0,0,3.35,0
+2023-09-11,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,288,1,0.0035,1.44,1.44,4.09,0.3521,2.8403,0,0,0.0,0,0,4.09,0
+2023-10-30,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,214,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-01,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,189,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-07,Bioblas - ESF,Halley - Campaign 7,Halley - AdGroup 3,HAL-SYN-0032,B0SYNTH0032,289,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,170,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-19,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,200,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-30,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,35,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,223,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-04-03,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,376,4,0.0106,1.43,5.71,12.53,0.4557,2.1944,0,0,0.0,0,0,12.53,0
+2023-05-01,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,210,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,167,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Orient Therapy - ESF,Harveast - Campaign 7,Harveast - AdGroup 4,HAR-SYN-0033,B0SYNTH0033,215,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-15,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,71,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-17,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,209,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,56,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-20,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,57,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-04-17,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,86,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,854,15,0.0176,1.08,16.21,31.88,0.5085,1.9667,0,0,0.0,0,0,31.88,0
+2023-07-24,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,32,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-01,Jumbo Jumble - ESF,BioBlas - Campaign 7,BioBlas - AdGroup 5,BIO-SYN-0034,B0SYNTH0034,192,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,1535,2,0.0013,0.56,1.13,1.77,0.6384,1.5664,0,0,0.0,0,0,1.77,0
+2023-05-15,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,77,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-04-03,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,49,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-13,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,18,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,1051,6,0.0057,1.43,8.57,12.69,0.6753,1.4807,0,0,0.0,0,0,12.69,0
+2023-07-17,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,93,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-11,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,469,4,0.0085,0.74,2.97,6.13,0.4845,2.064,0,0,0.0,0,0,6.13,0
+2023-07-03,Halley - ESF,OrientTherapy - Campaign 8,OrientTherapy - AdGroup 1,ORI-SYN-0035,B0SYNTH0035,2030,13,0.0064,1.42,18.45,62.21,0.2966,3.3718,2,2,0.1538,2,0,62.21,0
+2023-06-12,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,10,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-23,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,255,1,0.0039,1.08,1.08,1.88,0.5745,1.7407,0,0,0.0,0,0,1.88,0
+2023-05-01,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,94,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-27,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,113,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,333,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,33,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,893,1,0.0011,1.35,1.35,2.0,0.675,1.4815,0,0,0.0,0,0,2.0,0
+2023-07-24,Harveast - ESF,JumboJumble - Campaign 8,JumboJumble - AdGroup 2,JUM-SYN-0036,B0SYNTH0036,88,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-11,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,1027,1,0.001,0.86,0.86,4.83,0.1781,5.6163,0,0,0.0,0,0,4.83,0
+2023-07-10,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,935,2,0.0021,1.07,2.15,16.21,0.1326,7.5395,0,0,0.0,0,0,16.21,0
+2023-06-26,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,16,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-30,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,186,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,552,4,0.0072,0.38,1.5,2.0,0.75,1.3333,0,0,0.0,0,0,2.0,0
+2023-07-03,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,280,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-27,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,91,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-13,Bioblas - ESF,NaturPlus - Campaign 8,NaturPlus - AdGroup 3,NAT-SYN-0037,B0SYNTH0037,314,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,15,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-20,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,247,1,0.004,0.44,0.44,3.71,0.1186,8.4318,0,0,0.0,0,0,3.71,0
+2023-02-27,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,398,5,0.0126,1.46,7.31,12.5,0.5848,1.71,0,0,0.0,0,0,12.5,0
+2023-01-30,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,521,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-15,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,444,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-25,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,536,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,347,2,0.0058,1.39,2.78,11.64,0.2388,4.1871,0,0,0.0,0,0,11.64,0
+2023-07-24,Orient Therapy - ESF,EcoHome - Campaign 8,EcoHome - AdGroup 4,ECO-SYN-0038,B0SYNTH0038,185,1,0.0054,1.05,1.05,3.04,0.3454,2.8952,0,0,0.0,0,0,3.04,0
+2023-12-11,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,49,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-26,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,830,3,0.0036,0.88,2.64,9.7,0.2722,3.6742,0,0,0.0,0,0,9.7,0
+2023-03-20,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,435,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-20,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,68,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-09,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,455,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-25,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,175,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-16,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,306,2,0.0065,1.13,2.26,3.37,0.6706,1.4912,0,0,0.0,0,0,3.37,0
+2023-12-25,Jumbo Jumble - ESF,VitaGreen - Campaign 8,VitaGreen - AdGroup 5,VIT-SYN-0039,B0SYNTH0039,23,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-25,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,196,3,0.0153,1.13,3.4,4.68,0.7265,1.3765,0,0,0.0,0,0,4.68,0
+2023-12-25,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,191,1,0.0052,1.24,1.24,4.81,0.2578,3.879,0,0,0.0,0,0,4.81,0
+2023-03-20,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,81,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,376,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-08,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,885,9,0.0102,0.41,3.69,27.48,0.1343,7.4472,0,0,0.0,0,0,27.48,0
+2023-06-12,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,380,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-31,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,217,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-06,Halley - ESF,Halley - Campaign 9,Halley - AdGroup 1,HAL-SYN-0040,B0SYNTH0040,135,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-13,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,44,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-27,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,39,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-19,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,361,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-16,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,381,5,0.0131,1.46,7.28,12.67,0.5746,1.7404,0,0,0.0,0,0,12.67,0
+2023-02-13,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,223,1,0.0045,0.52,0.52,3.2,0.1625,6.1538,0,0,0.0,0,0,3.2,0
+2023-01-02,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,483,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-07,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,147,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-20,Harveast - ESF,Harveast - Campaign 9,Harveast - AdGroup 2,HAR-SYN-0041,B0SYNTH0041,189,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,808,3,0.0037,0.47,1.42,1.81,0.7845,1.2746,0,0,0.0,0,0,1.81,0
+2023-06-26,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,466,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-31,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,821,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-27,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,106,1,0.0094,1.15,1.15,10.28,0.1119,8.9391,0,0,0.0,0,0,10.28,0
+2023-05-22,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,144,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-17,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,267,1,0.0037,0.48,0.48,0.98,0.4898,2.0417,0,0,0.0,0,0,0.98,0
+2023-04-24,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,424,4,0.0094,1.19,4.75,22.84,0.208,4.8084,0,0,0.0,0,0,22.84,0
+2023-02-27,Bioblas - ESF,BioBlas - Campaign 9,BioBlas - AdGroup 3,BIO-SYN-0042,B0SYNTH0042,2248,4,0.0018,1.49,5.96,11.0,0.5418,1.8456,0,0,0.0,0,0,11.0,0
+2023-11-20,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,133,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-05,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,154,1,0.0065,1.38,1.38,5.12,0.2695,3.7101,0,0,0.0,0,0,5.12,0
+2023-06-26,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,249,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-23,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,21,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-19,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,111,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,46,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-02,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,1424,2,0.0014,0.89,1.78,10.28,0.1732,5.7753,0,0,0.0,0,0,10.28,0
+2023-05-29,Orient Therapy - ESF,OrientTherapy - Campaign 9,OrientTherapy - AdGroup 4,ORI-SYN-0043,B0SYNTH0043,566,2,0.0035,0.89,1.77,5.52,0.3207,3.1186,0,0,0.0,0,0,5.52,0
+2023-05-15,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,27,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,199,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-20,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,321,1,0.0031,1.09,1.09,2.39,0.4561,2.1927,0,0,0.0,0,0,2.39,0
+2023-10-16,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,3569,27,0.0076,0.78,21.04,42.11,0.4996,2.0014,0,0,0.0,0,0,42.11,0
+2023-09-04,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,328,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-22,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,275,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-06,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,14,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Jumbo Jumble - ESF,JumboJumble - Campaign 9,JumboJumble - AdGroup 5,JUM-SYN-0044,B0SYNTH0044,1954,3,0.0015,0.6,1.81,11.99,0.151,6.6243,0,0,0.0,0,0,11.99,0
+2023-10-09,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,553,5,0.009,0.39,1.96,3.08,0.6364,1.5714,0,0,0.0,0,0,3.08,0
+2023-10-23,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,866,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-30,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,1409,22,0.0156,0.98,21.64,38.01,0.5693,1.7565,0,0,0.0,0,0,38.01,0
+2023-06-12,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,129,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-06,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,233,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,62,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-01,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,1153,14,0.0121,0.37,5.21,7.87,0.662,1.5106,0,0,0.0,0,0,7.87,0
+2023-12-11,Halley - ESF,NaturPlus - Campaign 10,NaturPlus - AdGroup 1,NAT-SYN-0045,B0SYNTH0045,48,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-13,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,758,8,0.0106,0.46,3.71,6.59,0.563,1.7763,0,0,0.0,0,0,6.59,0
+2023-10-23,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,21,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-02,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,29,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-30,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,570,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-02,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,492,5,0.0102,0.86,4.28,8.62,0.4965,2.014,0,0,0.0,0,0,8.62,0
+2023-10-16,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,981,3,0.0031,0.34,1.03,1.34,0.7687,1.301,0,0,0.0,0,0,1.34,0
+2023-08-07,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,73,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-13,Harveast - ESF,EcoHome - Campaign 10,EcoHome - AdGroup 2,ECO-SYN-0046,B0SYNTH0046,372,1,0.0027,1.37,1.37,5.23,0.262,3.8175,0,0,0.0,0,0,5.23,0
+2023-12-11,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,777,2,0.0026,0.85,1.7,5.04,0.3373,2.9647,0,0,0.0,0,0,5.04,0
+2023-03-20,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,117,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-02-27,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,326,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-17,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,129,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-16,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,219,1,0.0046,0.55,0.55,1.02,0.5392,1.8545,0,0,0.0,0,0,1.02,0
+2023-06-19,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,1282,2,0.0016,1.4,2.8,4.79,0.5846,1.7107,0,0,0.0,0,0,4.79,0
+2023-10-30,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,92,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-09,Bioblas - ESF,VitaGreen - Campaign 10,VitaGreen - AdGroup 3,VIT-SYN-0047,B0SYNTH0047,21,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-01-09,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,214,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-14,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,1852,32,0.0173,0.49,15.69,30.75,0.5102,1.9598,1,1,0.0312,1,0,30.75,0
+2023-10-30,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,437,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-11-20,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,26,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-09-18,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,352,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-09,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,53,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-29,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,147,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-03-20,Orient Therapy - ESF,Halley - Campaign 10,Halley - AdGroup 4,HAL-SYN-0048,B0SYNTH0048,278,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-24,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,67,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-06-26,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,38,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-05-15,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,325,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-12-11,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,350,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-28,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,401,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-10-23,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,87,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-07-10,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,256,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
+2023-08-07,Jumbo Jumble - ESF,Harveast - Campaign 10,Harveast - AdGroup 5,HAR-SYN-0049,B0SYNTH0049,201,0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0.0,0
